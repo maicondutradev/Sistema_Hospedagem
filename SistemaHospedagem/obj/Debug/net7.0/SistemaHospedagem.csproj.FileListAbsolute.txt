@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.exe
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.deps.json
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.dll
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.pdb
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.sourcelink.json
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.dll
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\refint\SistemaHospedagem.dll
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.pdb
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\maico\Documents\Sistema_Hospedagem\SistemaHospedagem\obj\Debug\net7.0\ref\SistemaHospedagem.dll
